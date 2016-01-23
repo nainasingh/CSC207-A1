@@ -1,2 +1,2 @@
 # CSC207-A1
-Create a maze game in C 
+Create a maze game in Java
